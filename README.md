@@ -58,7 +58,7 @@ Edit
 
 ### 📥 Installation
 
-```bash
+bash
 git clone https://github.com/your-username/nsut-website.git
 cd nsut-website
 npm install
@@ -84,7 +84,9 @@ This project is deployed via Vercel.
 Any changes pushed to the main branch are automatically built and deployed.
 
 📸 Screenshots
-<img width="1404" alt="image" src="https://github.com/user-attachments/assets/4cfea000-6be5-4ff1-b5de-29d61c277495" />
+
+<img width="1404" alt="image" src="https://github.com/user-attachments/assets/ec9bd5eb-c0f2-41be-abdc-18c9f95a2522" />
+
 
 
 📄 License
