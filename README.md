@@ -84,13 +84,8 @@ This project is deployed via Vercel.
 Any changes pushed to the main branch are automatically built and deployed.
 
 📸 Screenshots
-Add images of your homepage, layout, responsiveness, or key features:
+<img width="1404" alt="image" src="https://github.com/user-attachments/assets/4cfea000-6be5-4ff1-b5de-29d61c277495" />
 
-📱 Mobile View
-
-💻 Full Homepage
-
-You can place screenshots inside a /screenshots folder in the repo.
 
 📄 License
 This project is licensed under the MIT License.
